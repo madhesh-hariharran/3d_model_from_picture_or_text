@@ -10,7 +10,7 @@ This project converts a photo or text prompt into a 3D model (.obj) and provides
 
     ```bash
     git clone https://github.com/openai/shap-e.git
-    cd photo_text_to_3d
+    cd 3d_model_from_text_or_image
     pip install -r requirements.txt
     ```
 
